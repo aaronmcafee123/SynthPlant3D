@@ -1,2 +1,4 @@
 *.bag
 .ipynb-checkpoints/
+RGB/
+Depth/
