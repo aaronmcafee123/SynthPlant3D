@@ -1,1 +1,13 @@
-pyrealsense2
+# Intel RealSense SDK
+pyrealsense2>=2.50.0
+
+# Image processing and computer vision
+numpy>=1.20.0
+opencv-python>=4.5.0
+scikit-learn>=1.0.0
+torch>=1.10.0
+torchvision>=0.11.0
+efficientnet-pytorch>=0.7.0
+
+# Utilities
+tqdm>=4.60.0
