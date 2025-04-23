@@ -1,5 +1,7 @@
 # SynthPlant3D
 
+| ![Alt A](assets/synthplants1.png) | ![Alt B](assets/synthplants2.png) |
+
 To install dependencies run:
 
 You might have to jimmy this script to get it work.
