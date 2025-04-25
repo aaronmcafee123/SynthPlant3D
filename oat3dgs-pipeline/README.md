@@ -83,9 +83,10 @@ python segment_novel_views.py \
   --conf_thresh     0.3
 ```
 ### 5. Visualize segmented oat panicle vs the orginal 3DGS particles
-
+```bash
 python overlay_panicle.py \
         --full_ply      oat_splat.ply \
         --onehot_npz    points_onehot.npz \
         --panicle_id    1
+```
 
