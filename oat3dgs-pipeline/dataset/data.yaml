@@ -1,0 +1,6 @@
+names:
+- panicle
+nc: 1
+path: /home/aaronmcafee/Downloads/oatseg/dataset
+train: images/train
+val: images/val
