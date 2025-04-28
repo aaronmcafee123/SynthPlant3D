@@ -1,6 +1,7 @@
 # SynthPlant3D
 
-| ![Alt A](assets/synthplants1.png) | ![Alt B](assets/synthplants2.png) |
+
+
 
 To install dependencies run:
 
@@ -18,3 +19,5 @@ Then you'll want to use the command:
 pip install -r requirements.txt
 ```
 
+For RadFoam models of hte blueberry and oat plant, please use the google drive link below, this also contains the raw image data used to train these models
+https://drive.google.com/drive/folders/1iYZ0QNN5ANqcA-h6fNQK_xVrXyBWERZZ
